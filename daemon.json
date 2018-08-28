@@ -1,0 +1,14 @@
+{
+    "iptables":false,
+    "log-level": "warn",
+    "default-runtime": "nvidia",
+    "runtimes": {
+            "oci": {
+                    "path": "/usr/sbin/docker-runc"
+            },
+            "nvidia": {
+                    "path": "nvidia-container-runtime",
+                    "runtimeArgs": []
+            }
+    }
+}
