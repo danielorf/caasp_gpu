@@ -1,6 +1,6 @@
 #!/bin/sh
-
-#Enter transactional-update shell with "transactional-update shell"
+
+# This script must be run in transactional-update shell
 
 mkdir /tmp/nvidia-docker
 cd /tmp/nvidia-docker
