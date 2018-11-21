@@ -1,0 +1,10 @@
+{
+    "metadata": {
+        "name": "temp-sandbox",
+        "namespace": "default",
+        "attempt": 1,
+        "uid": "hdishd83djaidwnduwk28bcsc"
+    },
+    "log_directory": "/tmp",
+    "linux": {}
+}
