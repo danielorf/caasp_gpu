@@ -1,0 +1,13 @@
+{
+    "metadata": {
+        "name": "cuda-vector-add"
+    },
+    "image": {
+        "image": "docker.io/mirrorgooglecontainers/cuda-vector-add:v0.1"
+    },
+    "Annotations": {
+        "foo": "gpu"
+    },
+    "log_path": "cuda-vector-add.log",
+    "linux": {}
+}
