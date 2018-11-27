@@ -1,0 +1,10 @@
+{
+	"cmd": ["."],
+	"hook": "/usr/bin/nvidia-container-runtime-hook",
+	"arguments": [
+		"prestart"
+	],
+	"stage": [
+		"prestart"
+	]
+}
